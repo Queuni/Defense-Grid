@@ -43,3 +43,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Simplify the dependency injection so it's easier to mock in tests
+
+- Correct typo in the error message shown when validation fails
