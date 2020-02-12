@@ -30,3 +30,6 @@
 
 ## 2020-07-18
 - Bump minimum Python version to 3.10 and update type hints accordingly
+
+## 2020-02-12
+- Remove the feature flag now that the feature is fully rolled out
