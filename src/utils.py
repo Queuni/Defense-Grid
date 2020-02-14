@@ -32,3 +32,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Correct the default path used when no config file is specified
+
+# Support optional config file path via env var for easier deployment
