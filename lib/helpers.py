@@ -24,3 +24,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Update README with installation steps and environment variable documentation
+
+# Bump the version and tag the release in the repo

@@ -24,3 +24,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Adjust timeout and retry settings based on production observations
+
+# Correct the timestamp format to use ISO 8601 for consistency
