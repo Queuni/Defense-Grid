@@ -33,3 +33,6 @@
 
 ## 2020-02-12
 - Remove the feature flag now that the feature is fully rolled out
+
+## 2020-02-14
+- Bump the version and tag the release in the repo

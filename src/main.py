@@ -28,3 +28,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Adjust the queue size to prevent drops under burst traffic
