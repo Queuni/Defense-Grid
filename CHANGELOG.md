@@ -36,3 +36,6 @@
 
 ## 2020-02-14
 - Bump the version and tag the release in the repo
+
+## 2020-02-14
+- Correct the formula used for calculating the backoff delay
