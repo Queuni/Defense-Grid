@@ -26,3 +26,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Correct the timestamp format to use ISO 8601 for consistency
+
+# Simplify the auth flow by using a single token source

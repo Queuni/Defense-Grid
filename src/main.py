@@ -30,3 +30,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Adjust timeout and retry settings based on production observations
