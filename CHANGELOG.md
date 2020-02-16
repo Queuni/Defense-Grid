@@ -39,3 +39,6 @@
 
 ## 2020-02-14
 - Correct the formula used for calculating the backoff delay
+
+## 2020-02-16
+- Refactor the main entry point to make it easier to test
