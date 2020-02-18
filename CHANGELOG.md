@@ -45,3 +45,6 @@
 
 ## 2020-02-18
 - Add a comment explaining why we disable the linter on this line
+
+## 2020-02-18
+- Fix the test that was flaky due to reliance on system time
