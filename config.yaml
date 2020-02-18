@@ -36,3 +36,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Improve the CLI help text so it's clear how to use each option

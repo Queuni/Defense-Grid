@@ -48,3 +48,6 @@
 
 ## 2020-02-18
 - Fix the test that was flaky due to reliance on system time
+
+## 2020-02-18
+- Fix the test that was flaky due to reliance on system time
