@@ -45,3 +45,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the dependency injection so it's easier to mock in tests
 
 - Correct typo in the error message shown when validation fails
+
+- Bump the CI image to use the latest stable runner version

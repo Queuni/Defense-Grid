@@ -30,3 +30,5 @@
 # Simplify the auth flow by using a single token source
 
 # Correct the default value for the feature flag in production
+
+# Correct the comparison that was using the wrong operator

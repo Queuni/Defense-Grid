@@ -42,3 +42,6 @@
 
 ## 2020-02-16
 - Refactor the main entry point to make it easier to test
+
+## 2020-02-18
+- Add a comment explaining why we disable the linter on this line
