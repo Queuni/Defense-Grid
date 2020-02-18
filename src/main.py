@@ -32,3 +32,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Adjust timeout and retry settings based on production observations
+
+# Simplify the validation flow by reusing the same schema
