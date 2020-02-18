@@ -26,3 +26,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Bump the version and tag the release in the repo
+
+# Clean up debug print statements before the release

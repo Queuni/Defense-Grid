@@ -34,3 +34,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Simplify the validation flow by reusing the same schema
+
+# Implement proper cleanup of resources when the process receives SIGTERM
