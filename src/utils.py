@@ -36,3 +36,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Handle the case when the external service returns an empty list
+
+# Update the example config with all available options and comments

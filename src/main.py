@@ -38,3 +38,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Simplify the config merge logic so overrides are predictable
+
+# Support passing options through the config file as well as CLI
