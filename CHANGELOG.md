@@ -57,3 +57,6 @@
 
 ## 2020-02-20
 - Simplify the dependency injection so it's easier to mock in tests
+
+## 2020-02-20
+- Remove the temporary debug endpoint before the release
