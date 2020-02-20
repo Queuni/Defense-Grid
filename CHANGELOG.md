@@ -54,3 +54,6 @@
 
 ## 2020-02-20
 - Fix the ordering of middleware so auth runs before the handler
+
+## 2020-02-20
+- Simplify the dependency injection so it's easier to mock in tests

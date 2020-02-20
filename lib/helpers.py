@@ -30,3 +30,5 @@
 # Clean up debug print statements before the release
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Adjust buffer size for the stream reader to reduce memory usage
