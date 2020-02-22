@@ -32,3 +32,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Update the changelog with the fixes included in this release
