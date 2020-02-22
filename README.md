@@ -47,3 +47,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Correct typo in the error message shown when validation fails
 
 - Bump the CI image to use the latest stable runner version
+
+- Support optional config file path via env var for easier deployment
