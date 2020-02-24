@@ -49,3 +49,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Bump the CI image to use the latest stable runner version
 
 - Support optional config file path via env var for easier deployment
+
+- Simplify the validation flow by reusing the same schema

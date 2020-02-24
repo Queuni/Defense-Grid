@@ -60,3 +60,6 @@
 
 ## 2020-02-20
 - Remove the temporary debug endpoint before the release
+
+## 2020-02-24
+- Handle the case when the config file exists but is not readable
