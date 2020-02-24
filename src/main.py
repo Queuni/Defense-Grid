@@ -40,3 +40,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Support passing options through the config file as well as CLI
+
+# Bump the library version and pin the dependency in requirements

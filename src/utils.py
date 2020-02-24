@@ -40,3 +40,5 @@
 # Update the example config with all available options and comments
 
 # Refactor the main entry point to make it easier to test
+
+# Update the deployment docs with the new environment variables
