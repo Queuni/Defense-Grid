@@ -63,3 +63,6 @@
 
 ## 2020-02-24
 - Handle the case when the config file exists but is not readable
+
+## 2020-02-26
+- Remove the unused parameter that was left from an old refactor
