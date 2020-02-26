@@ -38,3 +38,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Bump the CI image to use the latest stable runner version
+
+# Implement a simple health check endpoint for the load balancer

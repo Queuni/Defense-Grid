@@ -53,3 +53,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the validation flow by reusing the same schema
 
 - Adjust the batch size to reduce memory usage on large inputs
+
+- Clean up the test fixtures and move shared data to a single file
