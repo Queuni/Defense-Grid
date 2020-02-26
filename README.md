@@ -51,3 +51,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support optional config file path via env var for easier deployment
 
 - Simplify the validation flow by reusing the same schema
+
+- Adjust the batch size to reduce memory usage on large inputs
