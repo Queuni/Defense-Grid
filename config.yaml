@@ -44,3 +44,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Bump the library version and pin the dependency in requirements
+
+# Simplify the build script by using the same steps for dev and prod
