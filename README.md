@@ -57,3 +57,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the test fixtures and move shared data to a single file
 
 - Fix bug where the parser would hang on malformed input
+
+- Fix bug where the parser would hang on malformed input
