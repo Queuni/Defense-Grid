@@ -46,3 +46,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Update the API docs with the new query parameters and examples
