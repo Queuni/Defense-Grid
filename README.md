@@ -59,3 +59,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix bug where the parser would hang on malformed input
 
 - Fix bug where the parser would hang on malformed input
+
+- Bump minimum Python version to 3.10 and update type hints accordingly
