@@ -42,3 +42,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Update the deployment docs with the new environment variables
+
+# Simplify the config merge logic so overrides are predictable

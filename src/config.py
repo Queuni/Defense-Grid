@@ -40,3 +40,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Implement a simple health check endpoint for the load balancer
+
+# Fix the memory leak in the long-running worker process

@@ -66,3 +66,6 @@
 
 ## 2020-02-26
 - Remove the unused parameter that was left from an old refactor
+
+## 2020-03-05
+- Simplify the dependency injection so it's easier to mock in tests
