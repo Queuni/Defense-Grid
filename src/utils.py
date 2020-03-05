@@ -44,3 +44,5 @@
 # Update the deployment docs with the new environment variables
 
 # Simplify the config merge logic so overrides are predictable
+
+# Simplify the config validation by using a declarative schema
