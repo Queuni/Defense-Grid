@@ -48,3 +48,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Remove redundant check that was already covered by the validator
+
+# Support both relative and absolute paths for the config file

@@ -50,3 +50,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Simplify the config validation by using a declarative schema
+
+# Bump dependency to get the security fix for the reported CVE

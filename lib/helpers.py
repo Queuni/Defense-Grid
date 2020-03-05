@@ -38,3 +38,5 @@
 # Remove the feature flag now that the feature is fully rolled out
 
 # Bump the tool version and update the pre-commit hook config
+
+# Implement proper backoff with jitter for the retry logic
