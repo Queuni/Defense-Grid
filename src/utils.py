@@ -46,3 +46,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Simplify the config validation by using a declarative schema
+
+# Remove redundant check that was already covered by the validator
