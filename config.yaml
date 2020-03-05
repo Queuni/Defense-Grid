@@ -48,3 +48,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Fix race condition in the cache that could return stale data under load
+
+# Simplify the config validation by using a declarative schema
