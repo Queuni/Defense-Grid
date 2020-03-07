@@ -52,3 +52,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Adjust buffer size for the stream reader to reduce memory usage

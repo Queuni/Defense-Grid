@@ -42,3 +42,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Fix the memory leak in the long-running worker process
+
+# Clean up debug print statements before the release
