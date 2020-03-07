@@ -50,3 +50,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Support both relative and absolute paths for the config file
+
+# Adjust default timeout value to prevent premature connection drops

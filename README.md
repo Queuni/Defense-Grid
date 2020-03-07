@@ -61,3 +61,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix bug where the parser would hang on malformed input
 
 - Bump minimum Python version to 3.10 and update type hints accordingly
+
+- Support custom headers in the client for API key or auth tokens
