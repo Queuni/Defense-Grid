@@ -63,3 +63,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Bump minimum Python version to 3.10 and update type hints accordingly
 
 - Support custom headers in the client for API key or auth tokens
+
+- Support loading config from multiple files with later overriding earlier

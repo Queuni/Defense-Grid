@@ -40,3 +40,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Implement proper backoff with jitter for the retry logic
+
+# Improve logging so we can trace requests through the pipeline in production

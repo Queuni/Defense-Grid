@@ -69,3 +69,6 @@
 
 ## 2020-03-05
 - Simplify the dependency injection so it's easier to mock in tests
+
+## 2020-03-07
+- Simplify the auth flow by using a single token source
