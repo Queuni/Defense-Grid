@@ -42,3 +42,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Improve error message when the required env var is not set
