@@ -72,3 +72,6 @@
 
 ## 2020-03-07
 - Simplify the auth flow by using a single token source
+
+## 2020-03-09
+- Add proper error handling for invalid config so the app doesn't crash on startup
