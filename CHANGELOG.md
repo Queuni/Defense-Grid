@@ -78,3 +78,6 @@
 
 ## 2020-03-09
 - Handle the case when the config file exists but is not readable
+
+## 2020-03-09
+- Correct the default value for the feature flag in production

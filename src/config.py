@@ -44,3 +44,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Clean up debug print statements before the release
+
+# Implement proper backoff with jitter for the retry logic
