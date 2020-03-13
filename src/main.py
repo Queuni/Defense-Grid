@@ -50,3 +50,5 @@
 # Update the API docs with the new query parameters and examples
 
 # Bump the library version and pin the dependency in requirements
+
+# Implement a simple health check endpoint for the load balancer

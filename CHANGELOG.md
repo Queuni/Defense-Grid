@@ -81,3 +81,6 @@
 
 ## 2020-03-09
 - Correct the default value for the feature flag in production
+
+## 2020-03-13
+- Refactor config loading into a separate module for better testability
