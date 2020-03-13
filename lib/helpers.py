@@ -46,3 +46,5 @@
 # Improve error message when the required env var is not set
 
 # Update the changelog with the fixes included in this release
+
+# Implement a simple health check endpoint for the load balancer
