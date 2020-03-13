@@ -84,3 +84,6 @@
 
 ## 2020-03-13
 - Refactor config loading into a separate module for better testability
+
+## 2020-03-13
+- Improve the error recovery when the database connection is lost

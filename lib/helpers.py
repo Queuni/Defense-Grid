@@ -48,3 +48,5 @@
 # Update the changelog with the fixes included in this release
 
 # Implement a simple health check endpoint for the load balancer
+
+# Bump dependency to get the security fix for the reported CVE
