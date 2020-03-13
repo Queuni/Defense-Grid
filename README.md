@@ -65,3 +65,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support custom headers in the client for API key or auth tokens
 
 - Support loading config from multiple files with later overriding earlier
+
+- Fix the off-by-one error in the date range iterator

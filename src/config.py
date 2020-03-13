@@ -48,3 +48,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Adjust the batch size to reduce memory usage on large inputs

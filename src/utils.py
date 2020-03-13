@@ -54,3 +54,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Support environment-specific overrides via separate config files
+
+# Fix the ordering of middleware so auth runs before the handler
