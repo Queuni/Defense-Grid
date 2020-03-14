@@ -2,3 +2,5 @@
 
 
 # Update the changelog with the fixes included in this release
+
+# Handle the duplicate key case by merging the values instead of failing
