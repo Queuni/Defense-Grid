@@ -52,3 +52,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Correct the docstring to match the actual behavior of the function
+
+# Correct typo in the error message shown when validation fails
