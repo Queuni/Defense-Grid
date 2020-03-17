@@ -56,3 +56,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Fix the memory leak in the long-running worker process
+
+# Handle connection reset by the peer without crashing the worker
