@@ -50,3 +50,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Correct the docstring to match the actual behavior of the function
