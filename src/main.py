@@ -54,3 +54,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Fix the memory leak in the long-running worker process

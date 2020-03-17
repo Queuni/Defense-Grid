@@ -87,3 +87,6 @@
 
 ## 2020-03-13
 - Improve the error recovery when the database connection is lost
+
+## 2020-03-17
+- Support environment-specific overrides via separate config files
