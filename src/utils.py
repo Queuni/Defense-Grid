@@ -58,3 +58,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Handle the partial write case and retry the remaining bytes

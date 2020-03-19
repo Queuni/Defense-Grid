@@ -90,3 +90,6 @@
 
 ## 2020-03-17
 - Support environment-specific overrides via separate config files
+
+## 2020-03-19
+- Simplify the config merge logic so overrides are predictable
