@@ -93,3 +93,6 @@
 
 ## 2020-03-19
 - Simplify the config merge logic so overrides are predictable
+
+## 2020-03-21
+- Adjust the threshold so we only log when it's actually an issue
