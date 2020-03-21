@@ -96,3 +96,6 @@
 
 ## 2020-03-21
 - Adjust the threshold so we only log when it's actually an issue
+
+## 2020-03-21
+- Add a smoke test that runs in CI to catch obvious regressions

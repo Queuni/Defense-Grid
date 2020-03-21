@@ -56,3 +56,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Implement request ID propagation for better tracing across services
+
+# Clean up duplicate logic between the sync and async code paths
