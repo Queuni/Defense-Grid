@@ -67,3 +67,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support loading config from multiple files with later overriding earlier
 
 - Fix the off-by-one error in the date range iterator
+
+- Fix issue where empty input was not validated before passing to the parser
