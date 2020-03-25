@@ -58,3 +58,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Refactor the data layer to separate read and write paths

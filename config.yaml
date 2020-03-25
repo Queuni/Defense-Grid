@@ -62,3 +62,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Refactor the main entry point to make it easier to test
+
+# Remove the deprecated wrapper and use the library API directly

@@ -60,3 +60,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Handle the partial write case and retry the remaining bytes
+
+# Remove the unused parameter that was left from an old refactor
