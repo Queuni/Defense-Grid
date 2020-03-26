@@ -9,3 +9,6 @@
 
 ## 2020-03-26
 - Remove the unused parameter that was left from an old refactor
+
+## 2020-03-26
+- Fix bug where the parser would hang on malformed input
