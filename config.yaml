@@ -4,3 +4,5 @@
 # Update the changelog with the fixes included in this release
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Add proper error handling for invalid config so the app doesn't crash on startup

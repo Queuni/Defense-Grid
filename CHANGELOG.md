@@ -6,3 +6,6 @@
 
 ## 2020-03-26
 - Handle timeout gracefully and return a clear error to the caller
+
+## 2020-03-26
+- Remove the unused parameter that was left from an old refactor
