@@ -99,3 +99,6 @@
 
 ## 2020-03-21
 - Add a smoke test that runs in CI to catch obvious regressions
+
+## 2020-03-27
+- Support passing options through the config file as well as CLI
