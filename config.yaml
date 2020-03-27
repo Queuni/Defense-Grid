@@ -66,3 +66,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Adjust the default concurrency limit based on load test results
+
+# Update documentation to reflect the new API and usage examples

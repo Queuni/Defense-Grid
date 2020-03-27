@@ -102,3 +102,6 @@
 
 ## 2020-03-27
 - Support passing options through the config file as well as CLI
+
+## 2020-03-27
+- Refactor exports so the public API is clearer and easier to use
