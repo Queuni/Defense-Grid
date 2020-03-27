@@ -54,3 +54,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Bump the tool version and update the pre-commit hook config
+
+# Clean up the deprecated alias and point callers to the new name

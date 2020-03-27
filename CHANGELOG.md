@@ -105,3 +105,6 @@
 
 ## 2020-03-27
 - Refactor exports so the public API is clearer and easier to use
+
+## 2020-03-27
+- Adjust timeout and retry settings based on production observations

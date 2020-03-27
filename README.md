@@ -71,3 +71,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix issue where empty input was not validated before passing to the parser
 
 - Support passing options through the config file as well as CLI
+
+- Fix issue where empty input was not validated before passing to the parser
