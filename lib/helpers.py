@@ -56,3 +56,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Update the license file and add the new third-party notices

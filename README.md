@@ -73,3 +73,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support passing options through the config file as well as CLI
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Support both relative and absolute paths for the config file
