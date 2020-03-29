@@ -64,3 +64,5 @@
 # Correct the default value for the feature flag in production
 
 # Adjust timeout and retry settings based on production observations
+
+# Simplify the CLI by merging the two similar subcommands into one
