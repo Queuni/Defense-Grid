@@ -66,3 +66,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Correct the default so it matches what the documentation says

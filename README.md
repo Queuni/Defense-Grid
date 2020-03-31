@@ -75,3 +75,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix issue where empty input was not validated before passing to the parser
 
 - Support both relative and absolute paths for the config file
+
+- Fix the encoding issue when reading config files with non-ASCII
