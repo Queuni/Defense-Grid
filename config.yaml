@@ -72,3 +72,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up leftover code from the previous implementation
+
+# Bump version to 1.2.0 and add changelog entry for the new features
