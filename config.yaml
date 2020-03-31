@@ -70,3 +70,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Implement request ID propagation for better tracing across services
+
+# Clean up leftover code from the previous implementation
