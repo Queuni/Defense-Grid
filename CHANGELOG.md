@@ -108,3 +108,6 @@
 
 ## 2020-03-27
 - Adjust timeout and retry settings based on production observations
+
+## 2020-03-31
+- Handle the duplicate key case by merging the values instead of failing
