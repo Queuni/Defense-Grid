@@ -111,3 +111,6 @@
 
 ## 2020-03-31
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2020-04-02
+- Implement proper cleanup of resources when the process receives SIGTERM
