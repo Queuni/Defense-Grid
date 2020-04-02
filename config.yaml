@@ -74,3 +74,5 @@
 # Clean up leftover code from the previous implementation
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Improve performance by caching the result of the expensive lookup
