@@ -81,3 +81,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update the API docs with the new query parameters and examples
 
 - Clean up the formatting and run the linter on the changed files
+
+- Simplify the CLI by merging the two similar subcommands into one

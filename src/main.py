@@ -72,3 +72,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Add integration tests for the new export endpoint
