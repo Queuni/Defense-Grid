@@ -77,3 +77,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support both relative and absolute paths for the config file
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Update the API docs with the new query parameters and examples
