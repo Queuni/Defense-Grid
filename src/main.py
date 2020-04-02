@@ -70,3 +70,5 @@
 # Correct the default so it matches what the documentation says
 
 # Support optional config file path via env var for easier deployment
+
+# Remove obsolete workaround now that the upstream bug is fixed

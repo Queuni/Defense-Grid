@@ -79,3 +79,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix the encoding issue when reading config files with non-ASCII
 
 - Update the API docs with the new query parameters and examples
+
+- Clean up the formatting and run the linter on the changed files
