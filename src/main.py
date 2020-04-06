@@ -74,3 +74,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Add integration tests for the new export endpoint
+
+# Simplify the auth flow by using a single token source
