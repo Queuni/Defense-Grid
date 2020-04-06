@@ -114,3 +114,6 @@
 
 ## 2020-04-02
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+## 2020-04-06
+- Improve the startup time by lazy-loading the heavy modules

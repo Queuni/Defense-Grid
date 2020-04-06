@@ -76,3 +76,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Improve performance by caching the result of the expensive lookup
+
+# Handle the duplicate key case by merging the values instead of failing
