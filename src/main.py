@@ -6,3 +6,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Correct the default path used when no config file is specified
+
+# Correct the timestamp format to use ISO 8601 for consistency
