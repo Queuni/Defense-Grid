@@ -83,3 +83,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the formatting and run the linter on the changed files
 
 - Simplify the CLI by merging the two similar subcommands into one
+
+- Fix the encoding issue when reading config files with non-ASCII
