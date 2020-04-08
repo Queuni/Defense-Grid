@@ -117,3 +117,6 @@
 
 ## 2020-04-06
 - Improve the startup time by lazy-loading the heavy modules
+
+## 2020-04-08
+- Adjust the batch size to reduce memory usage on large inputs

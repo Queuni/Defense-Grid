@@ -78,3 +78,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Handle the case when the config file exists but is not readable
