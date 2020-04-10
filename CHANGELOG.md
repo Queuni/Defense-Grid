@@ -120,3 +120,6 @@
 
 ## 2020-04-08
 - Adjust the batch size to reduce memory usage on large inputs
+
+## 2020-04-10
+- Correct the default path used when no config file is specified

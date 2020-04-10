@@ -85,3 +85,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the CLI by merging the two similar subcommands into one
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Support custom headers in the client for API key or auth tokens
