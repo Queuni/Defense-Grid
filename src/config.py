@@ -62,3 +62,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Adjust the batch size to reduce memory usage on large inputs
