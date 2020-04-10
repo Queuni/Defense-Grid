@@ -62,3 +62,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Adjust timeout and retry settings based on production observations
+
+# Bump dependency to get the security fix for the reported CVE

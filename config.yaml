@@ -82,3 +82,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Fix the memory leak in the long-running worker process
