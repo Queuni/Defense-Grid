@@ -126,3 +126,6 @@
 
 ## 2020-04-12
 - Bump the Docker base image to get the latest security patches
+
+## 2020-04-12
+- Add a small delay between retries to avoid thundering herd

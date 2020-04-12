@@ -89,3 +89,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support custom headers in the client for API key or auth tokens
 
 - Improve test coverage for the helpers module to above 90%
+
+- Correct the formula used for calculating the backoff delay
