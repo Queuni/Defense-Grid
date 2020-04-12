@@ -78,3 +78,5 @@
 # Simplify the auth flow by using a single token source
 
 # Support both relative and absolute paths for the config file
+
+# Correct the default value for the feature flag in production

@@ -64,3 +64,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Refactor error handling to use a custom exception hierarchy

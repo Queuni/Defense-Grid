@@ -123,3 +123,6 @@
 
 ## 2020-04-10
 - Correct the default path used when no config file is specified
+
+## 2020-04-12
+- Bump the Docker base image to get the latest security patches
