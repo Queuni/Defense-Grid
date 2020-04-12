@@ -87,3 +87,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix the encoding issue when reading config files with non-ASCII
 
 - Support custom headers in the client for API key or auth tokens
+
+- Improve test coverage for the helpers module to above 90%
