@@ -29,3 +29,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor the parser to use a proper state machine instead of regex
 
 - Remove hardcoded credentials and move to env-based configuration
+
+- Update the deployment docs with the new environment variables
