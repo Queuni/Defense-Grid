@@ -27,3 +27,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Add integration test that covers the full flow from request to response
 
 - Refactor the parser to use a proper state machine instead of regex
+
+- Remove hardcoded credentials and move to env-based configuration
