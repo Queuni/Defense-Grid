@@ -8,3 +8,5 @@
 # Correct the default path used when no config file is specified
 
 # Correct the timestamp format to use ISO 8601 for consistency
+
+# Implement proper cleanup of resources when the process receives SIGTERM
