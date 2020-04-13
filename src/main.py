@@ -10,3 +10,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Add a comment explaining why we disable the linter on this line
