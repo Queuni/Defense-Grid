@@ -6,3 +6,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Improve the startup time by lazy-loading the heavy modules
