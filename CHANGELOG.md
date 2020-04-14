@@ -129,3 +129,6 @@
 
 ## 2020-04-12
 - Add a small delay between retries to avoid thundering herd
+
+## 2020-04-14
+- Support passing options through the config file as well as CLI

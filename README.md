@@ -93,3 +93,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Correct the formula used for calculating the backoff delay
 
 - Simplify the config validation by using a declarative schema
+
+- Simplify the validation flow by reusing the same schema
