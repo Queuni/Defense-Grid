@@ -84,3 +84,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Fix the memory leak in the long-running worker process
+
+# Bump the library version and pin the dependency in requirements
