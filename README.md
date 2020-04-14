@@ -95,3 +95,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the config validation by using a declarative schema
 
 - Simplify the validation flow by reusing the same schema
+
+- Adjust log level for noisy messages that were filling the logs

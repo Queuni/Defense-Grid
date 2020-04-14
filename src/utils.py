@@ -70,3 +70,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Correct the logic that determined whether to use cache or not

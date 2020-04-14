@@ -132,3 +132,6 @@
 
 ## 2020-04-14
 - Support passing options through the config file as well as CLI
+
+## 2020-04-14
+- Fix bug where the parser would hang on malformed input
