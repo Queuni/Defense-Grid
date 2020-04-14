@@ -82,3 +82,5 @@
 # Correct the default value for the feature flag in production
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Bump the tool version and update the pre-commit hook config

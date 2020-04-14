@@ -68,3 +68,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Update the changelog with the fixes included in this release
+
+# Support optional config file path via env var for easier deployment
