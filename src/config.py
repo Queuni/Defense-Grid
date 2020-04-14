@@ -66,3 +66,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Update the changelog with the fixes included in this release

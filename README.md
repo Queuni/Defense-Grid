@@ -91,3 +91,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve test coverage for the helpers module to above 90%
 
 - Correct the formula used for calculating the backoff delay
+
+- Simplify the config validation by using a declarative schema
