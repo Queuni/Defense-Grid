@@ -135,3 +135,6 @@
 
 ## 2020-04-14
 - Fix bug where the parser would hang on malformed input
+
+## 2020-04-16
+- Refactor the helper to accept an optional callback for progress
