@@ -138,3 +138,6 @@
 
 ## 2020-04-16
 - Refactor the helper to accept an optional callback for progress
+
+## 2020-04-16
+- Add proper error handling for invalid config so the app doesn't crash on startup
