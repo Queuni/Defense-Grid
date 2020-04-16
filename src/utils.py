@@ -72,3 +72,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Correct the logic that determined whether to use cache or not
+
+# Adjust default timeout value to prevent premature connection drops
