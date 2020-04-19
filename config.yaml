@@ -8,3 +8,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Refactor the data layer to separate read and write paths

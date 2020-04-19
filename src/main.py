@@ -14,3 +14,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Bump the tool version and update the pre-commit hook config
+
+# Improve the error recovery when the database connection is lost
