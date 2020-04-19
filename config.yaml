@@ -6,3 +6,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Refactor error handling to use a custom exception hierarchy
