@@ -74,3 +74,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Clean up leftover code from the previous implementation

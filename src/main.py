@@ -88,3 +88,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Remove the unused parameter that was left from an old refactor
