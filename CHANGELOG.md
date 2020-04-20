@@ -144,3 +144,6 @@
 
 ## 2020-04-20
 - Simplify the config merge logic so overrides are predictable
+
+## 2020-04-20
+- Handle missing optional field in the response without raising
