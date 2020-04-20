@@ -97,3 +97,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the validation flow by reusing the same schema
 
 - Adjust log level for noisy messages that were filling the logs
+
+- Handle missing optional field in the response without raising
