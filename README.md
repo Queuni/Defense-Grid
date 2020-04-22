@@ -99,3 +99,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Adjust log level for noisy messages that were filling the logs
 
 - Handle missing optional field in the response without raising
+
+- Simplify the dependency injection so it's easier to mock in tests

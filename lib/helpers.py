@@ -68,3 +68,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Clean up the commented-out code that was left from debugging
+
+# Add a comment explaining why we disable the linter on this line
