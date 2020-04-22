@@ -78,3 +78,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Bump the Docker base image to get the latest security patches
+
+# Clean up debug print statements before the release
