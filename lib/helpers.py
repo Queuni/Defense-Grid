@@ -72,3 +72,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Add a small delay between retries to avoid thundering herd

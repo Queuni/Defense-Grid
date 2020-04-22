@@ -147,3 +147,6 @@
 
 ## 2020-04-20
 - Handle missing optional field in the response without raising
+
+## 2020-04-22
+- Improve error message when the required env var is not set

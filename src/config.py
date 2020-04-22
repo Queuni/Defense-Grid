@@ -76,3 +76,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Bump the Docker base image to get the latest security patches
