@@ -70,3 +70,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Add a comment explaining why we disable the linter on this line
+
+# Simplify the CLI by merging the two similar subcommands into one

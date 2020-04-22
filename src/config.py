@@ -74,3 +74,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Fix the off-by-one error in the date range iterator
+
+# Refactor exports so the public API is clearer and easier to use
