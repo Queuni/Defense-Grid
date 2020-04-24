@@ -90,3 +90,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Remove the unused parameter that was left from an old refactor
+
+# Handle missing optional field in the response without raising
