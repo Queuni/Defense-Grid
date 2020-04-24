@@ -101,3 +101,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Handle missing optional field in the response without raising
 
 - Simplify the dependency injection so it's easier to mock in tests
+
+- Refactor exports so the public API is clearer and easier to use
