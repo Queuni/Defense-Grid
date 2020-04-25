@@ -12,3 +12,6 @@
 
 ## 2020-03-26
 - Fix bug where the parser would hang on malformed input
+
+## 2020-04-25
+- Add integration test that covers the full flow from request to response

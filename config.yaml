@@ -10,3 +10,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Refactor the data layer to separate read and write paths
+
+# Fix issue where empty input was not validated before passing to the parser
