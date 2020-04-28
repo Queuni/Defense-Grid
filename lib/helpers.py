@@ -74,3 +74,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Add a small delay between retries to avoid thundering herd
+
+# Fix bug where the parser would hang on malformed input
