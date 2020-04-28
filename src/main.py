@@ -92,3 +92,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Handle missing optional field in the response without raising
+
+# Update documentation to reflect the new API and usage examples

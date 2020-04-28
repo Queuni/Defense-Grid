@@ -80,3 +80,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Clean up debug print statements before the release
+
+# Fix incorrect type hint that was causing mypy to fail in CI
