@@ -94,3 +94,5 @@
 # Handle missing optional field in the response without raising
 
 # Update documentation to reflect the new API and usage examples
+
+# Adjust log level for noisy messages that were filling the logs
