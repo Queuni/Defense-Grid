@@ -156,3 +156,6 @@
 
 ## 2020-04-28
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+## 2020-04-28
+- Correct the default value for the feature flag in production
