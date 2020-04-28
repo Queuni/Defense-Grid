@@ -153,3 +153,6 @@
 
 ## 2020-04-22
 - Remove obsolete workaround now that the upstream bug is fixed
+
+## 2020-04-28
+- Add proper error handling for invalid config so the app doesn't crash on startup
