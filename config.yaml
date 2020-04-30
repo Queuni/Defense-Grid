@@ -96,3 +96,5 @@
 # Clean up debug print statements before the release
 
 # Refactor the data layer to separate read and write paths
+
+# Support custom headers in the client for API key or auth tokens

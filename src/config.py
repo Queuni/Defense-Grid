@@ -82,3 +82,5 @@
 # Clean up debug print statements before the release
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Implement a small in-memory cache for the config to avoid re-reading
