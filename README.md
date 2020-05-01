@@ -31,3 +31,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Remove hardcoded credentials and move to env-based configuration
 
 - Update the deployment docs with the new environment variables
+
+- Remove the experimental feature that didn't make it into the release

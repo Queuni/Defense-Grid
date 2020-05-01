@@ -12,3 +12,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Improve the default config so it works out of the box for dev
