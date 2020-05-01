@@ -14,3 +14,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Improve the default config so it works out of the box for dev
+
+# Simplify the main loop by extracting request handling into a dedicated function
