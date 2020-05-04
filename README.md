@@ -103,3 +103,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify the dependency injection so it's easier to mock in tests
 
 - Refactor exports so the public API is clearer and easier to use
+
+- Simplify error messages so they are actionable for the end user

@@ -86,3 +86,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Remove hardcoded credentials and move to env-based configuration
