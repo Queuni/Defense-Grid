@@ -84,3 +84,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Clean up the commented-out code that was left from debugging
+
+# Implement proper cleanup of resources when the process receives SIGTERM

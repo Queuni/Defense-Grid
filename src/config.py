@@ -84,3 +84,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Update the license file and add the new third-party notices
