@@ -76,3 +76,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Fix bug where the parser would hang on malformed input
+
+# Clean up the TODO comments that were already addressed
