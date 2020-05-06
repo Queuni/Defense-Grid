@@ -105,3 +105,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor exports so the public API is clearer and easier to use
 
 - Simplify error messages so they are actionable for the end user
+
+- Clean up the TODO comments that were already addressed
