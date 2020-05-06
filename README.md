@@ -107,3 +107,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Simplify error messages so they are actionable for the end user
 
 - Clean up the TODO comments that were already addressed
+
+- Improve the setup script to check for required tools before running

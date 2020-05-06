@@ -102,3 +102,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Fix race condition in the cache that could return stale data under load
+
+# Refactor exports so the public API is clearer and easier to use

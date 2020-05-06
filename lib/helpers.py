@@ -78,3 +78,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Clean up the TODO comments that were already addressed
+
+# Implement request ID propagation for better tracing across services
