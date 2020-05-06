@@ -86,3 +86,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Update the license file and add the new third-party notices
+
+# Refactor the client to use async context manager for the session
