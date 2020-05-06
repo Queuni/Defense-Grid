@@ -159,3 +159,6 @@
 
 ## 2020-04-28
 - Correct the default value for the feature flag in production
+
+## 2020-05-06
+- Support both relative and absolute paths for the config file

@@ -98,3 +98,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Refactor the main entry point to make it easier to test
+
+# Improve the default config so it works out of the box for dev

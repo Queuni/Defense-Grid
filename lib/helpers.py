@@ -80,3 +80,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Implement request ID propagation for better tracing across services
+
+# Update dependencies and resolve compatibility warning from pytest
