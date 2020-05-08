@@ -168,3 +168,6 @@
 
 ## 2020-05-08
 - Support config reload without restart via SIGHUP or file watch
+
+## 2020-05-08
+- Support passing options through the config file as well as CLI

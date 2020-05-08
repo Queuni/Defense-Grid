@@ -90,3 +90,5 @@
 # Refactor the client to use async context manager for the session
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Fix bug where the parser would hang on malformed input
