@@ -82,3 +82,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Fix the memory leak in the long-running worker process

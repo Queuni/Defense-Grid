@@ -100,3 +100,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Improve the default config so it works out of the box for dev
+
+# Correct the logic that determined whether to use cache or not
