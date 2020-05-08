@@ -104,3 +104,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Add proper error handling for invalid config so the app doesn't crash on startup

@@ -109,3 +109,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the TODO comments that were already addressed
 
 - Improve the setup script to check for required tools before running
+
+- Clean up debug print statements before the release
