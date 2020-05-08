@@ -84,3 +84,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Fix the memory leak in the long-running worker process
+
+# Fix the off-by-one error in the date range iterator

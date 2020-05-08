@@ -88,3 +88,5 @@
 # Update the license file and add the new third-party notices
 
 # Refactor the client to use async context manager for the session
+
+# Update dependencies and resolve compatibility warning from pytest
