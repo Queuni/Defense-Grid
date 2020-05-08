@@ -162,3 +162,6 @@
 
 ## 2020-05-06
 - Support both relative and absolute paths for the config file
+
+## 2020-05-08
+- Update the changelog with the fixes included in this release
