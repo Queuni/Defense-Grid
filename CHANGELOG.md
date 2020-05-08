@@ -165,3 +165,6 @@
 
 ## 2020-05-08
 - Update the changelog with the fixes included in this release
+
+## 2020-05-08
+- Support config reload without restart via SIGHUP or file watch

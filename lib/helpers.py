@@ -86,3 +86,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Fix the off-by-one error in the date range iterator
+
+# Support passing options through the config file as well as CLI

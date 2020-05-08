@@ -102,3 +102,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Correct the logic that determined whether to use cache or not
+
+# Remove obsolete workaround now that the upstream bug is fixed
