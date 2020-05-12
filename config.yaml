@@ -108,3 +108,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Adjust the pool size to match the actual concurrency we need
