@@ -88,3 +88,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Adjust buffer size for the stream reader to reduce memory usage
