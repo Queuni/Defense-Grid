@@ -16,3 +16,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Improve the error recovery when the database connection is lost
+
+# Bump the tool version and update the pre-commit hook config
