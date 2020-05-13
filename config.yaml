@@ -18,3 +18,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Clean up leftover code from the previous implementation
+
+# Refactor the data layer to separate read and write paths

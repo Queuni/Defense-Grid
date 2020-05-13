@@ -10,3 +10,5 @@
 # Add validation for the config schema before applying settings
 
 # Correct the default so it matches what the documentation says
+
+# Simplify the main loop by extracting request handling into a dedicated function
