@@ -15,3 +15,6 @@
 
 ## 2020-04-25
 - Add integration test that covers the full flow from request to response
+
+## 2020-05-13
+- Simplify the build script by using the same steps for dev and prod
