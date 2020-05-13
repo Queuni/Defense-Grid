@@ -8,3 +8,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Add validation for the config schema before applying settings
+
+# Correct the default so it matches what the documentation says

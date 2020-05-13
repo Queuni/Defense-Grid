@@ -18,3 +18,6 @@
 
 ## 2020-05-13
 - Simplify the build script by using the same steps for dev and prod
+
+## 2020-05-13
+- Implement request ID propagation for better tracing across services
