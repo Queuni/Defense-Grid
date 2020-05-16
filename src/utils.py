@@ -90,3 +90,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Improve error message when the required env var is not set
