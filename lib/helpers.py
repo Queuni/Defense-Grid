@@ -88,3 +88,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Support passing options through the config file as well as CLI
+
+# Simplify the config merge logic so overrides are predictable

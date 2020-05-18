@@ -92,3 +92,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Improve error message when the required env var is not set
+
+# Handle the case when the external service returns an empty list
