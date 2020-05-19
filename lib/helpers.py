@@ -12,3 +12,5 @@
 # Correct the default so it matches what the documentation says
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Remove deprecated CLI flag and update docs to use the new option
