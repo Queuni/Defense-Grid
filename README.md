@@ -33,3 +33,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update the deployment docs with the new environment variables
 
 - Remove the experimental feature that didn't make it into the release
+
+- Correct the timestamp format to use ISO 8601 for consistency

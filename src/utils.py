@@ -10,3 +10,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Remove the feature flag now that the feature is fully rolled out
+
+# Support custom headers in the client for API key or auth tokens
