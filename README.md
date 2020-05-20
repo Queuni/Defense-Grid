@@ -111,3 +111,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve the setup script to check for required tools before running
 
 - Clean up debug print statements before the release
+
+- Improve the startup time by lazy-loading the heavy modules

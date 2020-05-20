@@ -92,3 +92,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Fix bug where the parser would hang on malformed input
+
+# Bump the library version and pin the dependency in requirements

@@ -171,3 +171,6 @@
 
 ## 2020-05-08
 - Support passing options through the config file as well as CLI
+
+## 2020-05-20
+- Implement request ID propagation for better tracing across services
