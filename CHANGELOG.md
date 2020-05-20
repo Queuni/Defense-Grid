@@ -174,3 +174,6 @@
 
 ## 2020-05-20
 - Implement request ID propagation for better tracing across services
+
+## 2020-05-20
+- Support passing secrets via a separate file for security
