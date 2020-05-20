@@ -94,3 +94,5 @@
 # Improve error message when the required env var is not set
 
 # Handle the case when the external service returns an empty list
+
+# Simplify the auth flow by using a single token source
