@@ -177,3 +177,6 @@
 
 ## 2020-05-20
 - Support passing secrets via a separate file for security
+
+## 2020-05-22
+- Bump the dependency to fix the compatibility issue with Python 3.12
