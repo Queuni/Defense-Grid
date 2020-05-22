@@ -92,3 +92,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Fix the test that was flaky due to reliance on system time
+
+# Refactor error handling to use a custom exception hierarchy
