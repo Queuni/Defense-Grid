@@ -112,3 +112,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Add a unit test for the edge case when the list is empty
