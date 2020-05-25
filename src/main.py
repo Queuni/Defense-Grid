@@ -18,3 +18,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Bump the tool version and update the pre-commit hook config
+
+# Improve error message when the required env var is not set
