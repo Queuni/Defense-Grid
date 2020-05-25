@@ -21,3 +21,6 @@
 
 ## 2020-05-13
 - Implement request ID propagation for better tracing across services
+
+## 2020-05-25
+- Bump the version and tag the release in the repo

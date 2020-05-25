@@ -14,3 +14,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Handle the duplicate key case by merging the values instead of failing
