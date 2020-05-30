@@ -116,3 +116,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Support passing options through the config file as well as CLI
