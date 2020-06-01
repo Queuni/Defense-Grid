@@ -98,3 +98,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Clean up leftover code from the previous implementation
+
+# Clean up the deprecated alias and point callers to the new name

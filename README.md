@@ -113,3 +113,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up debug print statements before the release
 
 - Improve the startup time by lazy-loading the heavy modules
+
+- Implement fallback to default value when config key is missing
