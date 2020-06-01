@@ -104,3 +104,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Remove redundant check that was already covered by the validator
