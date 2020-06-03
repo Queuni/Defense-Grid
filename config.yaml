@@ -118,3 +118,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Support passing options through the config file as well as CLI
+
+# Simplify the dependency injection so it's easier to mock in tests
