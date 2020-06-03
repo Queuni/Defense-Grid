@@ -100,3 +100,5 @@
 # Clean up leftover code from the previous implementation
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Refactor exports so the public API is clearer and easier to use
