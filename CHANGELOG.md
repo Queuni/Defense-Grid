@@ -180,3 +180,6 @@
 
 ## 2020-05-22
 - Bump the dependency to fix the compatibility issue with Python 3.12
+
+## 2020-06-03
+- Adjust log level for noisy messages that were filling the logs
