@@ -115,3 +115,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve the startup time by lazy-loading the heavy modules
 
 - Implement fallback to default value when config key is missing
+
+- Support loading config from multiple files with later overriding earlier
