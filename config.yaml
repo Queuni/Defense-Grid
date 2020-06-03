@@ -122,3 +122,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Update documentation to reflect the new API and usage examples
+
+# Add a comment explaining why we disable the linter on this line

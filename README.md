@@ -117,3 +117,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement fallback to default value when config key is missing
 
 - Support loading config from multiple files with later overriding earlier
+
+- Improve the default config so it works out of the box for dev

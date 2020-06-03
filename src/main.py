@@ -106,3 +106,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Remove redundant check that was already covered by the validator
+
+# Correct typo in the error message shown when validation fails
