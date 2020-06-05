@@ -124,3 +124,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Add a comment explaining why we disable the linter on this line
+
+# Support passing secrets via a separate file for security
