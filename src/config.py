@@ -104,3 +104,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Simplify the config merge logic so overrides are predictable
+
+# Bump the CI image to use the latest stable runner version

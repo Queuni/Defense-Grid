@@ -100,3 +100,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Remove the feature flag now that the feature is fully rolled out
+
+# Simplify the CLI by merging the two similar subcommands into one
