@@ -14,3 +14,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Refactor the client to use async context manager for the session

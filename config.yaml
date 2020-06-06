@@ -24,3 +24,5 @@
 # Update the contributing guide with the new review process
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Handle connection reset by the peer without crashing the worker
