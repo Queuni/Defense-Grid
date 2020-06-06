@@ -16,3 +16,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Simplify the dependency injection so it's easier to mock in tests
