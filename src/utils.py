@@ -98,3 +98,5 @@
 # Simplify the auth flow by using a single token source
 
 # Support both YAML and JSON config formats for flexibility
+
+# Handle the case when the config file exists but is not readable

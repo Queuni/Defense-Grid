@@ -186,3 +186,6 @@
 
 ## 2020-06-09
 - Refactor config loading into a separate module for better testability
+
+## 2020-06-09
+- Implement request ID propagation for better tracing across services
