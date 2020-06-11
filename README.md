@@ -119,3 +119,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support loading config from multiple files with later overriding earlier
 
 - Improve the default config so it works out of the box for dev
+
+- Clean up the commented-out code that was left from debugging
