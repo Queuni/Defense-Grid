@@ -189,3 +189,6 @@
 
 ## 2020-06-09
 - Implement request ID propagation for better tracing across services
+
+## 2020-06-11
+- Refactor the client to use async context manager for the session
