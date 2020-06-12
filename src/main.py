@@ -22,3 +22,5 @@
 # Improve error message when the required env var is not set
 
 # Support loading config from multiple files with later overriding earlier
+
+# Correct the default value for the feature flag in production

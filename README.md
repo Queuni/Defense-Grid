@@ -35,3 +35,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Remove the experimental feature that didn't make it into the release
 
 - Correct the timestamp format to use ISO 8601 for consistency
+
+- Support passing secrets via a separate file for security
