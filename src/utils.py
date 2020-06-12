@@ -18,3 +18,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Clean up duplicate logic between the sync and async code paths
