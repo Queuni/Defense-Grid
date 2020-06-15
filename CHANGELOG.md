@@ -192,3 +192,6 @@
 
 ## 2020-06-11
 - Refactor the client to use async context manager for the session
+
+## 2020-06-15
+- Remove the temporary debug endpoint before the release
