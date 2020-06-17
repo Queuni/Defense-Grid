@@ -102,3 +102,5 @@
 # Remove the feature flag now that the feature is fully rolled out
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Simplify the config merge logic so overrides are predictable
