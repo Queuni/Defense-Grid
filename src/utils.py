@@ -104,3 +104,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Correct the comparison that was using the wrong operator
+
+# Correct typo in the error message shown when validation fails
