@@ -102,3 +102,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Correct the comparison that was using the wrong operator
