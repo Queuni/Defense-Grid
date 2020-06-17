@@ -100,3 +100,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Handle the case when the config file exists but is not readable
+
+# Bump version to 1.2.0 and add changelog entry for the new features

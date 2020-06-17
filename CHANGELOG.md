@@ -195,3 +195,6 @@
 
 ## 2020-06-15
 - Remove the temporary debug endpoint before the release
+
+## 2020-06-17
+- Simplify the main loop by extracting request handling into a dedicated function

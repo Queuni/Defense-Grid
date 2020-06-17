@@ -123,3 +123,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the commented-out code that was left from debugging
 
 - Remove the feature flag now that the feature is fully rolled out
+
+- Clean up the test fixtures and move shared data to a single file
