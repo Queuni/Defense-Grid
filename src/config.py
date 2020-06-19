@@ -108,3 +108,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Clean up debug print statements before the release

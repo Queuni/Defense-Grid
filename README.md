@@ -127,3 +127,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the test fixtures and move shared data to a single file
 
 - Clean up the commented-out code that was left from debugging
+
+- Fix the off-by-one error in the date range iterator
