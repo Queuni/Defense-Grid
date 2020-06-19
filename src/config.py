@@ -110,3 +110,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Clean up debug print statements before the release
+
+# Adjust log level for noisy messages that were filling the logs
