@@ -129,3 +129,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the commented-out code that was left from debugging
 
 - Fix the off-by-one error in the date range iterator
+
+- Refactor the main entry point to make it easier to test

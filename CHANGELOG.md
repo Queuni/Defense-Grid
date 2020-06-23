@@ -198,3 +198,6 @@
 
 ## 2020-06-17
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2020-06-23
+- Refactor the main entry point to make it easier to test
