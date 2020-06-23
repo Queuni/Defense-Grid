@@ -130,3 +130,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Refactor utils to use a single source of truth for default values
+
+# Improve the startup time by lazy-loading the heavy modules
