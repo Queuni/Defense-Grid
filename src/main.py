@@ -108,3 +108,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Correct typo in the error message shown when validation fails
+
+# Support passing secrets via a separate file for security
