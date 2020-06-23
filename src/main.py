@@ -110,3 +110,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Support passing secrets via a separate file for security
+
+# Support loading config from multiple files with later overriding earlier

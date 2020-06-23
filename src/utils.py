@@ -110,3 +110,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Handle edge case when the response body is empty but status is 200
+
+# Fix the encoding issue when reading config files with non-ASCII
