@@ -18,3 +18,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Add a small delay between retries to avoid thundering herd
