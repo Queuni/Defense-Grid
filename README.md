@@ -37,3 +37,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Correct the timestamp format to use ISO 8601 for consistency
 
 - Support passing secrets via a separate file for security
+
+- Improve the default config so it works out of the box for dev
