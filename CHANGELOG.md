@@ -24,3 +24,6 @@
 
 ## 2020-05-25
 - Bump the version and tag the release in the repo
+
+## 2020-06-24
+- Implement a small in-memory cache for the config to avoid re-reading

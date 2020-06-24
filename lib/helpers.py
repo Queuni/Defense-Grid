@@ -18,3 +18,5 @@
 # Refactor the client to use async context manager for the session
 
 # Improve test coverage for the helpers module to above 90%
+
+# Simplify the dependency injection so it's easier to mock in tests
