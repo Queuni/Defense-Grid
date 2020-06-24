@@ -16,3 +16,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Refactor the client to use async context manager for the session
+
+# Improve test coverage for the helpers module to above 90%
