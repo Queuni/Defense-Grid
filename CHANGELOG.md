@@ -201,3 +201,6 @@
 
 ## 2020-06-23
 - Refactor the main entry point to make it easier to test
+
+## 2020-06-25
+- Adjust the default concurrency limit based on load test results
