@@ -112,3 +112,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Adjust the pool size to match the actual concurrency we need
