@@ -112,3 +112,5 @@
 # Support passing secrets via a separate file for security
 
 # Support loading config from multiple files with later overriding earlier
+
+# Improve logging so we can trace requests through the pipeline in production
