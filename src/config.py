@@ -118,3 +118,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Refactor the helper to accept an optional callback for progress
+
+# Clean up debug print statements before the release
