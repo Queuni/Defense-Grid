@@ -24,3 +24,5 @@
 # Support loading config from multiple files with later overriding earlier
 
 # Correct the default value for the feature flag in production
+
+# Add a note in the README about the breaking change in 2.0
