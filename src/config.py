@@ -20,3 +20,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Add a small delay between retries to avoid thundering herd
+
+# Update README with installation steps and environment variable documentation
