@@ -204,3 +204,6 @@
 
 ## 2020-06-25
 - Adjust the default concurrency limit based on load test results
+
+## 2020-07-03
+- Adjust timeout and retry settings based on production observations

@@ -116,3 +116,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Add integration test that covers the full flow from request to response
