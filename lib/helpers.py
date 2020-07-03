@@ -104,3 +104,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Simplify the config merge logic so overrides are predictable
+
+# Refactor the main entry point to make it easier to test
