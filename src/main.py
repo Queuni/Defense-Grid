@@ -118,3 +118,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Add integration test that covers the full flow from request to response
+
+# Correct the docstring to match the actual behavior of the function
