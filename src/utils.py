@@ -114,3 +114,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Adjust timeout and retry settings based on production observations
