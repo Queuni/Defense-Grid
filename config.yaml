@@ -134,3 +134,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Improve test coverage for the helpers module to above 90%
+
+# Remove the deprecated wrapper and use the library API directly

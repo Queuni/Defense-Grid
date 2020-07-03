@@ -207,3 +207,6 @@
 
 ## 2020-07-03
 - Adjust timeout and retry settings based on production observations
+
+## 2020-07-03
+- Clean up the TODO comments that were already addressed
