@@ -120,3 +120,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Clean up debug print statements before the release
+
+# Implement a simple health check endpoint for the load balancer
