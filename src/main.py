@@ -120,3 +120,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Correct the docstring to match the actual behavior of the function
+
+# Implement request ID propagation for better tracing across services
