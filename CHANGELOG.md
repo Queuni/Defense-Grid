@@ -210,3 +210,6 @@
 
 ## 2020-07-03
 - Clean up the TODO comments that were already addressed
+
+## 2020-07-05
+- Adjust the threshold so we only log when it's actually an issue
