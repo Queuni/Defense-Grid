@@ -120,3 +120,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Improve the setup script to check for required tools before running
+
+# Handle connection reset by the peer without crashing the worker
