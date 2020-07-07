@@ -133,3 +133,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor the main entry point to make it easier to test
 
 - Handle edge case when the response body is empty but status is 200
+
+- Improve performance by caching the result of the expensive lookup

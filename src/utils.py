@@ -118,3 +118,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Clean up the formatting and run the linter on the changed files
+
+# Improve the setup script to check for required tools before running
