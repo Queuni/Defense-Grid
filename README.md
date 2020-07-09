@@ -137,3 +137,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve performance by caching the result of the expensive lookup
 
 - Handle the case when the config file exists but is not readable
+
+- Clean up the formatting and run the linter on the changed files
