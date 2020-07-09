@@ -213,3 +213,6 @@
 
 ## 2020-07-05
 - Adjust the threshold so we only log when it's actually an issue
+
+## 2020-07-09
+- Refactor the main entry point to make it easier to test

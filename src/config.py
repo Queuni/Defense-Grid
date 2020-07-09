@@ -124,3 +124,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Simplify the auth flow by using a single token source
+
+# Add a smoke test that runs in CI to catch obvious regressions
