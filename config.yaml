@@ -136,3 +136,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Refactor exports so the public API is clearer and easier to use
