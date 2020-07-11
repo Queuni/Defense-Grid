@@ -108,3 +108,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Handle the partial write case and retry the remaining bytes
