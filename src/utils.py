@@ -122,3 +122,5 @@
 # Improve the setup script to check for required tools before running
 
 # Handle connection reset by the peer without crashing the worker
+
+# Correct the comparison that was using the wrong operator

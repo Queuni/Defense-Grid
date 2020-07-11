@@ -139,3 +139,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Handle the case when the config file exists but is not readable
 
 - Clean up the formatting and run the linter on the changed files
+
+- Clean up duplicate logic between the sync and async code paths

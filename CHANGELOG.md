@@ -216,3 +216,6 @@
 
 ## 2020-07-09
 - Refactor the main entry point to make it easier to test
+
+## 2020-07-11
+- Implement a simple metrics endpoint for Prometheus scraping
