@@ -138,3 +138,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Add a unit test for the edge case when the list is empty
