@@ -128,3 +128,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Simplify the validation flow by reusing the same schema
+
+# Clean up the deprecated alias and point callers to the new name

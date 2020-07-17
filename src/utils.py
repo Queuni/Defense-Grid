@@ -128,3 +128,5 @@
 # Handle missing optional field in the response without raising
 
 # Add a note in the README about the breaking change in 2.0
+
+# Implement retry logic for the API client when the remote returns 5xx
