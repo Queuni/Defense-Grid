@@ -141,3 +141,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the formatting and run the linter on the changed files
 
 - Clean up duplicate logic between the sync and async code paths
+
+- Refactor exports so the public API is clearer and easier to use
