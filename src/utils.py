@@ -124,3 +124,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Correct the comparison that was using the wrong operator
+
+# Handle missing optional field in the response without raising
