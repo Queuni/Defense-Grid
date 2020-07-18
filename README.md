@@ -41,3 +41,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve the default config so it works out of the box for dev
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Simplify the dependency injection so it's easier to mock in tests
