@@ -39,3 +39,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support passing secrets via a separate file for security
 
 - Improve the default config so it works out of the box for dev
+
+- Implement a simple metrics endpoint for Prometheus scraping
