@@ -27,3 +27,6 @@
 
 ## 2020-06-24
 - Implement a small in-memory cache for the config to avoid re-reading
+
+## 2020-07-18
+- Bump minimum Python version to 3.10 and update type hints accordingly
