@@ -143,3 +143,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up duplicate logic between the sync and async code paths
 
 - Refactor exports so the public API is clearer and easier to use
+
+- Bump the dependency to fix the compatibility issue with Python 3.12

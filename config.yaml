@@ -140,3 +140,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Add a unit test for the edge case when the list is empty
+
+# Support loading config from multiple files with later overriding earlier
