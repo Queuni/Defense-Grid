@@ -130,3 +130,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Support custom headers in the client for API key or auth tokens
