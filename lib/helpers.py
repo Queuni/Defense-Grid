@@ -112,3 +112,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Implement retry logic for the API client when the remote returns 5xx

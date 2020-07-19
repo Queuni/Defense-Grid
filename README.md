@@ -145,3 +145,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor exports so the public API is clearer and easier to use
 
 - Bump the dependency to fix the compatibility issue with Python 3.12
+
+- Implement a simple health check endpoint for the load balancer
