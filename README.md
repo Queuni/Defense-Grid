@@ -151,3 +151,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor the helper to accept an optional callback for progress
 
 - Adjust timeout and retry settings based on production observations
+
+- Implement proper backoff with jitter for the retry logic
