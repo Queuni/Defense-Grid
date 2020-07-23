@@ -116,3 +116,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Simplify the auth flow by using a single token source
+
+# Simplify error messages so they are actionable for the end user
