@@ -118,3 +118,5 @@
 # Simplify the auth flow by using a single token source
 
 # Simplify error messages so they are actionable for the end user
+
+# Bump the Docker base image to get the latest security patches

@@ -149,3 +149,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement a simple health check endpoint for the load balancer
 
 - Refactor the helper to accept an optional callback for progress
+
+- Adjust timeout and retry settings based on production observations

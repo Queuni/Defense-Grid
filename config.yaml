@@ -146,3 +146,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Correct the default value for the feature flag in production
+
+# Fix the ordering of middleware so auth runs before the handler
