@@ -132,3 +132,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Support custom headers in the client for API key or auth tokens
+
+# Support passing secrets via a separate file for security

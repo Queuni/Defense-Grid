@@ -153,3 +153,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Adjust timeout and retry settings based on production observations
 
 - Implement proper backoff with jitter for the retry logic
+
+- Update README with installation steps and environment variable documentation
