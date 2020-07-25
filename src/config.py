@@ -134,3 +134,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Support passing secrets via a separate file for security
+
+# Update dependencies and resolve compatibility warning from pytest
