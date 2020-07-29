@@ -157,3 +157,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update README with installation steps and environment variable documentation
 
 - Adjust log level for noisy messages that were filling the logs
+
+- Handle the duplicate key case by merging the values instead of failing
