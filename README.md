@@ -155,3 +155,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement proper backoff with jitter for the retry logic
 
 - Update README with installation steps and environment variable documentation
+
+- Adjust log level for noisy messages that were filling the logs
