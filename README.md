@@ -161,3 +161,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Handle the duplicate key case by merging the values instead of failing
 
 - Improve the startup time by lazy-loading the heavy modules
+
+- Bump version to 1.2.0 and add changelog entry for the new features

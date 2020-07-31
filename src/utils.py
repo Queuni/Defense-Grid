@@ -132,3 +132,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Remove the unused parameter that was left from an old refactor
