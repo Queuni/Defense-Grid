@@ -159,3 +159,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Adjust log level for noisy messages that were filling the logs
 
 - Handle the duplicate key case by merging the values instead of failing
+
+- Improve the startup time by lazy-loading the heavy modules
