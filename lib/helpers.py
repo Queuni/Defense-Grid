@@ -120,3 +120,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Bump the Docker base image to get the latest security patches
+
+# Handle the duplicate key case by merging the values instead of failing

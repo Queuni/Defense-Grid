@@ -132,3 +132,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Update the license file and add the new third-party notices
+
+# Refactor config loading into a separate module for better testability
