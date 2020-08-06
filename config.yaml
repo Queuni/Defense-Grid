@@ -148,3 +148,5 @@
 # Correct the default value for the feature flag in production
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Support passing options through the config file as well as CLI
