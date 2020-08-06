@@ -130,3 +130,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Improve performance by caching the result of the expensive lookup
+
+# Update the license file and add the new third-party notices
