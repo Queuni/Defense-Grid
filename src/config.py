@@ -136,3 +136,5 @@
 # Support passing secrets via a separate file for security
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Handle the case when the external service returns an empty list
