@@ -163,3 +163,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve the startup time by lazy-loading the heavy modules
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Implement a simple metrics endpoint for Prometheus scraping
