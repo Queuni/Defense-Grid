@@ -134,3 +134,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Remove the unused parameter that was left from an old refactor
+
+# Simplify the CLI by merging the two similar subcommands into one
