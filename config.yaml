@@ -152,3 +152,5 @@
 # Support passing options through the config file as well as CLI
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Simplify the build script by using the same steps for dev and prod
