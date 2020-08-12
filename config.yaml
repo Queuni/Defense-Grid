@@ -150,3 +150,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Support passing options through the config file as well as CLI
+
+# Adjust log level for noisy messages that were filling the logs
