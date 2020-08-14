@@ -136,3 +136,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Update the contributing guide with the new review process

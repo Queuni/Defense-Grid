@@ -138,3 +138,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Handle the case when the external service returns an empty list
+
+# Refactor utils to use a single source of truth for default values

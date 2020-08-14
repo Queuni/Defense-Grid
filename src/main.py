@@ -134,3 +134,5 @@
 # Update the license file and add the new third-party notices
 
 # Refactor config loading into a separate module for better testability
+
+# Adjust log level for noisy messages that were filling the logs
