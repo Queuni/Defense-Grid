@@ -122,3 +122,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Fix bug where the parser would hang on malformed input

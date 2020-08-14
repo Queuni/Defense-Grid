@@ -140,3 +140,5 @@
 # Handle the case when the external service returns an empty list
 
 # Refactor utils to use a single source of truth for default values
+
+# Handle timeout gracefully and return a clear error to the caller
