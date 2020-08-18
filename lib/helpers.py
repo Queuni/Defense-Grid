@@ -126,3 +126,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Update the license file and add the new third-party notices
