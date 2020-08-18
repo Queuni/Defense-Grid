@@ -136,3 +136,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Fix bug where the parser would hang on malformed input

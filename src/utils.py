@@ -140,3 +140,5 @@
 # Update the contributing guide with the new review process
 
 # Clean up debug print statements before the release
+
+# Fix the ordering of middleware so auth runs before the handler
