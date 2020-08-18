@@ -219,3 +219,6 @@
 
 ## 2020-07-11
 - Implement a simple metrics endpoint for Prometheus scraping
+
+## 2020-08-18
+- Simplify the main loop by extracting request handling into a dedicated function
