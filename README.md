@@ -165,3 +165,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Bump version to 1.2.0 and add changelog entry for the new features
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Handle missing optional field in the response without raising
