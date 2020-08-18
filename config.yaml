@@ -156,3 +156,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Support both YAML and JSON config formats for flexibility
+
+# Handle timeout gracefully and return a clear error to the caller

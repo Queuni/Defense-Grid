@@ -222,3 +222,6 @@
 
 ## 2020-08-18
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2020-08-18
+- Simplify the auth flow by using a single token source
