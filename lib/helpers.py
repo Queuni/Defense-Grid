@@ -128,3 +128,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Update the license file and add the new third-party notices
+
+# Bump the tool version and update the pre-commit hook config
