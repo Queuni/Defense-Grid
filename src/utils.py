@@ -142,3 +142,5 @@
 # Clean up debug print statements before the release
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Clean up duplicate logic between the sync and async code paths
