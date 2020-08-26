@@ -138,3 +138,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Fix bug where the parser would hang on malformed input
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
