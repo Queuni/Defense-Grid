@@ -148,3 +148,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Add a note in the README about the breaking change in 2.0
+
+# Refactor utils to use a single source of truth for default values
