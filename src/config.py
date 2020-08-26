@@ -146,3 +146,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Add a note in the README about the breaking change in 2.0
