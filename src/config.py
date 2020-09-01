@@ -150,3 +150,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Refactor utils to use a single source of truth for default values
+
+# Handle the case when the config file exists but is not readable
