@@ -225,3 +225,6 @@
 
 ## 2020-08-18
 - Simplify the auth flow by using a single token source
+
+## 2020-09-01
+- Simplify the CLI by merging the two similar subcommands into one

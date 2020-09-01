@@ -144,3 +144,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Remove the feature flag now that the feature is fully rolled out
