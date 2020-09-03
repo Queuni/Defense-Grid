@@ -140,3 +140,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
