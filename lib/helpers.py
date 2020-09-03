@@ -132,3 +132,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Support passing secrets via a separate file for security
+
+# Clean up debug print statements before the release
