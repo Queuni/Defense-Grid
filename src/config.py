@@ -152,3 +152,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Handle the case when the config file exists but is not readable
+
+# Simplify the main loop by extracting request handling into a dedicated function
