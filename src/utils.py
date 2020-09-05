@@ -148,3 +148,5 @@
 # Remove the feature flag now that the feature is fully rolled out
 
 # Clean up the commented-out code that was left from debugging
+
+# Clean up the formatting and run the linter on the changed files
