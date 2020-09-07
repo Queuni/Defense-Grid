@@ -167,3 +167,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Handle missing optional field in the response without raising
+
+- Update the contributing guide with the new review process
