@@ -152,3 +152,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Correct typo in the error message shown when validation fails
+
+# Add integration test that covers the full flow from request to response

@@ -169,3 +169,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Handle missing optional field in the response without raising
 
 - Update the contributing guide with the new review process
+
+- Fix the memory leak in the long-running worker process
