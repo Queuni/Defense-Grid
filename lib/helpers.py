@@ -136,3 +136,5 @@
 # Clean up debug print statements before the release
 
 # Add a comment explaining why we disable the linter on this line
+
+# Update dependencies and resolve compatibility warning from pytest
