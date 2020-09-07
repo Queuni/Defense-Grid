@@ -228,3 +228,6 @@
 
 ## 2020-09-01
 - Simplify the CLI by merging the two similar subcommands into one
+
+## 2020-09-07
+- Update the license file and add the new third-party notices
