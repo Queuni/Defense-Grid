@@ -144,3 +144,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Bump the Docker base image to get the latest security patches
+
+# Simplify the build script by using the same steps for dev and prod
