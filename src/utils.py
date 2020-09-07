@@ -150,3 +150,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Clean up the formatting and run the linter on the changed files
+
+# Correct typo in the error message shown when validation fails
