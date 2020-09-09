@@ -140,3 +140,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Update the deployment docs with the new environment variables
+
+# Improve the CLI help text so it's clear how to use each option

@@ -231,3 +231,6 @@
 
 ## 2020-09-07
 - Update the license file and add the new third-party notices
+
+## 2020-09-09
+- Implement a simple metrics endpoint for Prometheus scraping
