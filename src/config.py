@@ -154,3 +154,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Adjust log level for noisy messages that were filling the logs
