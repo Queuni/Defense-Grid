@@ -171,3 +171,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update the contributing guide with the new review process
 
 - Fix the memory leak in the long-running worker process
+
+- Update dependencies and resolve compatibility warning from pytest
