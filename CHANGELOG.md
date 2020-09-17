@@ -234,3 +234,6 @@
 
 ## 2020-09-09
 - Implement a simple metrics endpoint for Prometheus scraping
+
+## 2020-09-17
+- Handle edge case when the response body is empty but status is 200
