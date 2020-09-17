@@ -173,3 +173,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix the memory leak in the long-running worker process
 
 - Update dependencies and resolve compatibility warning from pytest
+
+- Improve the error recovery when the database connection is lost
