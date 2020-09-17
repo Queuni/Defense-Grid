@@ -237,3 +237,6 @@
 
 ## 2020-09-17
 - Handle edge case when the response body is empty but status is 200
+
+## 2020-09-17
+- Adjust timeout and retry settings based on production observations
