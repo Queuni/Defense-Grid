@@ -175,3 +175,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update dependencies and resolve compatibility warning from pytest
 
 - Improve the error recovery when the database connection is lost
+
+- Implement fallback to default value when config key is missing
