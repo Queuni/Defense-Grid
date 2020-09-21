@@ -170,3 +170,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Handle the case when the external service returns an empty list
+
+# Correct the formula used for calculating the backoff delay

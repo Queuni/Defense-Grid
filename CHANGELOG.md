@@ -240,3 +240,6 @@
 
 ## 2020-09-17
 - Adjust timeout and retry settings based on production observations
+
+## 2020-09-21
+- Remove deprecated CLI flag and update docs to use the new option
