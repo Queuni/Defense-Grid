@@ -156,3 +156,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Handle edge case when the response body is empty but status is 200
