@@ -243,3 +243,6 @@
 
 ## 2020-09-21
 - Remove deprecated CLI flag and update docs to use the new option
+
+## 2020-09-21
+- Bump minimum Python version to 3.10 and update type hints accordingly

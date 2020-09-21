@@ -172,3 +172,5 @@
 # Handle the case when the external service returns an empty list
 
 # Correct the formula used for calculating the backoff delay
+
+# Add validation for the config schema before applying settings
