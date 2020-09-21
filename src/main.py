@@ -146,3 +146,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Remove redundant check that was already covered by the validator

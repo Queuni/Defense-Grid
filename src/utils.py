@@ -156,3 +156,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Refactor the client to use async context manager for the session
