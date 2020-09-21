@@ -177,3 +177,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve the error recovery when the database connection is lost
 
 - Implement fallback to default value when config key is missing
+
+- Fix bug where the parser would hang on malformed input
