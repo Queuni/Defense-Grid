@@ -150,3 +150,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Implement proper backoff with jitter for the retry logic
