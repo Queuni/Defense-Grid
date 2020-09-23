@@ -174,3 +174,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Add validation for the config schema before applying settings
+
+# Handle the duplicate key case by merging the values instead of failing

@@ -162,3 +162,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Fix the test that was flaky due to reliance on system time
+
+# Simplify the config validation by using a declarative schema
