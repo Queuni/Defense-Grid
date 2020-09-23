@@ -148,3 +148,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Remove redundant check that was already covered by the validator
+
+# Fix the encoding issue when reading config files with non-ASCII
