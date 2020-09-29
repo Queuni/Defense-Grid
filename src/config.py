@@ -164,3 +164,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Simplify the config validation by using a declarative schema
+
+# Bump the CI image to use the latest stable runner version
