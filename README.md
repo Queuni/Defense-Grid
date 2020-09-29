@@ -181,3 +181,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix bug where the parser would hang on malformed input
 
 - Clean up the deprecated alias and point callers to the new name
+
+- Handle timeout gracefully and return a clear error to the caller
