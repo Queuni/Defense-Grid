@@ -179,3 +179,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement fallback to default value when config key is missing
 
 - Fix bug where the parser would hang on malformed input
+
+- Clean up the deprecated alias and point callers to the new name
