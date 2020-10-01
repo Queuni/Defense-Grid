@@ -144,3 +144,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Clean up leftover code from the previous implementation
+
+# Update the API docs with the new query parameters and examples
