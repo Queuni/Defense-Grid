@@ -146,3 +146,5 @@
 # Clean up leftover code from the previous implementation
 
 # Update the API docs with the new query parameters and examples
+
+# Handle the redirect response and follow it to get the final resource
