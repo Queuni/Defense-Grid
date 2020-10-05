@@ -185,3 +185,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Handle timeout gracefully and return a clear error to the caller
 
 - Improve test coverage for the helpers module to above 90%
+
+- Refactor the main entry point to make it easier to test

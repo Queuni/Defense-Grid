@@ -152,3 +152,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Implement proper backoff with jitter for the retry logic
+
+# Improve the setup script to check for required tools before running
