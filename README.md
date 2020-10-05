@@ -183,3 +183,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Clean up the deprecated alias and point callers to the new name
 
 - Handle timeout gracefully and return a clear error to the caller
+
+- Improve test coverage for the helpers module to above 90%
