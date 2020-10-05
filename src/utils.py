@@ -158,3 +158,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Refactor the client to use async context manager for the session
+
+# Support custom headers in the client for API key or auth tokens
