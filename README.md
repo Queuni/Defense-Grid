@@ -187,3 +187,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve test coverage for the helpers module to above 90%
 
 - Refactor the main entry point to make it easier to test
+
+- Bump version to 1.2.0 and add changelog entry for the new features
