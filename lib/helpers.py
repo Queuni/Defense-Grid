@@ -148,3 +148,5 @@
 # Update the API docs with the new query parameters and examples
 
 # Handle the redirect response and follow it to get the final resource
+
+# Remove the experimental feature that didn't make it into the release

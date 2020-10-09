@@ -191,3 +191,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Bump version to 1.2.0 and add changelog entry for the new features
 
 - Support config reload without restart via SIGHUP or file watch
+
+- Adjust timeout and retry settings based on production observations
