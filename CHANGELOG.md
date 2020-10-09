@@ -249,3 +249,6 @@
 
 ## 2020-10-01
 - Remove deprecated CLI flag and update docs to use the new option
+
+## 2020-10-09
+- Correct the docstring to match the actual behavior of the function

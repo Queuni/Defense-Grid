@@ -182,3 +182,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Improve the default config so it works out of the box for dev
