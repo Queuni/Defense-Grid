@@ -150,3 +150,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Remove the experimental feature that didn't make it into the release
+
+# Clean up the formatting and run the linter on the changed files

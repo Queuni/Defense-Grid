@@ -193,3 +193,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support config reload without restart via SIGHUP or file watch
 
 - Adjust timeout and retry settings based on production observations
+
+- Fix race condition in the cache that could return stale data under load
