@@ -184,3 +184,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Improve the default config so it works out of the box for dev
+
+# Clean up the commented-out code that was left from debugging
