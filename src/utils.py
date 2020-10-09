@@ -160,3 +160,5 @@
 # Refactor the client to use async context manager for the session
 
 # Support custom headers in the client for API key or auth tokens
+
+# Update README with installation steps and environment variable documentation
