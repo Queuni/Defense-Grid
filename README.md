@@ -189,3 +189,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor the main entry point to make it easier to test
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Support config reload without restart via SIGHUP or file watch

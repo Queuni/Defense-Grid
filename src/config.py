@@ -168,3 +168,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Implement request ID propagation for better tracing across services
