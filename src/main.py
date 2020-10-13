@@ -154,3 +154,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Improve the setup script to check for required tools before running
+
+# Remove the experimental feature that didn't make it into the release

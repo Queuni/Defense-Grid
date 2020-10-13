@@ -195,3 +195,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Adjust timeout and retry settings based on production observations
 
 - Fix race condition in the cache that could return stale data under load
+
+- Support passing options through the config file as well as CLI
