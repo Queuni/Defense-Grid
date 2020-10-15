@@ -176,3 +176,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Correct the formula used for calculating the backoff delay
