@@ -156,3 +156,5 @@
 # Improve the setup script to check for required tools before running
 
 # Remove the experimental feature that didn't make it into the release
+
+# Clean up the deprecated alias and point callers to the new name
