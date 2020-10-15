@@ -252,3 +252,6 @@
 
 ## 2020-10-09
 - Correct the docstring to match the actual behavior of the function
+
+## 2020-10-15
+- Clean up the commented-out code that was left from debugging
