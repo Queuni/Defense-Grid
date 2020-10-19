@@ -258,3 +258,6 @@
 
 ## 2020-10-19
 - Support loading config from multiple files with later overriding earlier
+
+## 2020-10-19
+- Fix the test that was flaky due to reliance on system time
