@@ -166,3 +166,5 @@
 # Clean up debug print statements before the release
 
 # Simplify the config validation by using a declarative schema
+
+# Handle the redirect response and follow it to get the final resource

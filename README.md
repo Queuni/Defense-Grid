@@ -197,3 +197,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Fix race condition in the cache that could return stale data under load
 
 - Support passing options through the config file as well as CLI
+
+- Improve logging so we can trace requests through the pipeline in production

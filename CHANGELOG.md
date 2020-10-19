@@ -255,3 +255,6 @@
 
 ## 2020-10-15
 - Clean up the commented-out code that was left from debugging
+
+## 2020-10-19
+- Support loading config from multiple files with later overriding earlier
