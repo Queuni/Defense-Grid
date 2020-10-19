@@ -164,3 +164,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Clean up debug print statements before the release
+
+# Simplify the config validation by using a declarative schema
