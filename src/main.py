@@ -160,3 +160,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Simplify the validation flow by reusing the same schema
+
+# Update the deployment docs with the new environment variables
