@@ -154,3 +154,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Fix the off-by-one error in the date range iterator
+
+# Correct the formula used for calculating the backoff delay

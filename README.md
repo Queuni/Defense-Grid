@@ -199,3 +199,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Support passing options through the config file as well as CLI
 
 - Improve logging so we can trace requests through the pipeline in production
+
+- Adjust buffer size for the stream reader to reduce memory usage
