@@ -158,3 +158,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Refactor the client to use async context manager for the session
