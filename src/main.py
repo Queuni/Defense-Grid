@@ -162,3 +162,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Update the deployment docs with the new environment variables
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

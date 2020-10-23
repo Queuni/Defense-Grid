@@ -201,3 +201,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Improve logging so we can trace requests through the pipeline in production
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Update dependencies and resolve compatibility warning from pytest
