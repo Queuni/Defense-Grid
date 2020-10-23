@@ -178,3 +178,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Correct the formula used for calculating the backoff delay
+
+# Clean up the TODO comments that were already addressed

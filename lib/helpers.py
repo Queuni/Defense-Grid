@@ -156,3 +156,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Correct the formula used for calculating the backoff delay
+
+# Simplify the main loop by extracting request handling into a dedicated function
