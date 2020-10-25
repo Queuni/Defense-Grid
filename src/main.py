@@ -164,3 +164,5 @@
 # Update the deployment docs with the new environment variables
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Bump the version and tag the release in the repo

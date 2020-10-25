@@ -203,3 +203,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Update dependencies and resolve compatibility warning from pytest
+
+- Implement request ID propagation for better tracing across services
