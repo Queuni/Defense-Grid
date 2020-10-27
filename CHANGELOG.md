@@ -261,3 +261,6 @@
 
 ## 2020-10-19
 - Fix the test that was flaky due to reliance on system time
+
+## 2020-10-27
+- Improve the default config so it works out of the box for dev
