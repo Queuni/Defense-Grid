@@ -205,3 +205,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update dependencies and resolve compatibility warning from pytest
 
 - Implement request ID propagation for better tracing across services
+
+- Correct the timestamp format to use ISO 8601 for consistency

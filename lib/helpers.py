@@ -160,3 +160,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Refactor the client to use async context manager for the session
+
+# Fix issue where empty input was not validated before passing to the parser
