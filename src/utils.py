@@ -170,3 +170,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Handle connection reset by the peer without crashing the worker
