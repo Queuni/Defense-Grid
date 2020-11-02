@@ -166,3 +166,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Bump the version and tag the release in the repo
+
+# Handle the case when the external service returns an empty list

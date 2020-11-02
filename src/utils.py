@@ -172,3 +172,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Handle connection reset by the peer without crashing the worker
+
+# Correct the docstring to match the actual behavior of the function

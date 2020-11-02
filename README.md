@@ -207,3 +207,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Implement request ID propagation for better tracing across services
 
 - Correct the timestamp format to use ISO 8601 for consistency
+
+- Refactor the data layer to separate read and write paths
