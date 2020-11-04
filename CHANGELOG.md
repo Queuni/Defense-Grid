@@ -267,3 +267,6 @@
 
 ## 2020-11-04
 - Clean up debug print statements before the release
+
+## 2020-11-04
+- Clean up the deprecated alias and point callers to the new name

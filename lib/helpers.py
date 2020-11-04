@@ -164,3 +164,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Refactor the helper to accept an optional callback for progress
+
+# Adjust the pool size to match the actual concurrency we need
