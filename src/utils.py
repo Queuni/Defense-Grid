@@ -174,3 +174,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Correct the docstring to match the actual behavior of the function
+
+# Update documentation to reflect the new API and usage examples
