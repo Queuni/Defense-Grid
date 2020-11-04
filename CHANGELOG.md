@@ -264,3 +264,6 @@
 
 ## 2020-10-27
 - Improve the default config so it works out of the box for dev
+
+## 2020-11-04
+- Clean up debug print statements before the release
