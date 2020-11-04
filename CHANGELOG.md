@@ -270,3 +270,6 @@
 
 ## 2020-11-04
 - Clean up the deprecated alias and point callers to the new name
+
+## 2020-11-04
+- Adjust the queue size to prevent drops under burst traffic

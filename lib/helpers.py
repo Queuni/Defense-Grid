@@ -166,3 +166,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Refactor config loading into a separate module for better testability
