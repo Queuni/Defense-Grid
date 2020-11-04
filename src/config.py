@@ -180,3 +180,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Clean up the TODO comments that were already addressed
+
+# Bump the CI image to use the latest stable runner version
