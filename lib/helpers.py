@@ -162,3 +162,5 @@
 # Refactor the client to use async context manager for the session
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Refactor the helper to accept an optional callback for progress
