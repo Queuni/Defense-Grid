@@ -192,3 +192,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Improve performance by caching the result of the expensive lookup
+
+# Improve error message when the required env var is not set

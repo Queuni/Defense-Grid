@@ -276,3 +276,6 @@
 
 ## 2020-11-06
 - Refactor the parser to use a proper state machine instead of regex
+
+## 2020-11-06
+- Adjust the pool size to match the actual concurrency we need
