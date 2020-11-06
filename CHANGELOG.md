@@ -273,3 +273,6 @@
 
 ## 2020-11-04
 - Adjust the queue size to prevent drops under burst traffic
+
+## 2020-11-06
+- Refactor the parser to use a proper state machine instead of regex

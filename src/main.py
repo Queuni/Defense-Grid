@@ -168,3 +168,5 @@
 # Bump the version and tag the release in the repo
 
 # Handle the case when the external service returns an empty list
+
+# Implement a simple health check endpoint for the load balancer
