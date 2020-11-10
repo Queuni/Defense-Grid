@@ -172,3 +172,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Support custom headers in the client for API key or auth tokens
+
+# Add proper error handling for invalid config so the app doesn't crash on startup

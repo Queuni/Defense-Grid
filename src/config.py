@@ -182,3 +182,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Bump the CI image to use the latest stable runner version
+
+# Add a smoke test that runs in CI to catch obvious regressions
