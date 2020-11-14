@@ -211,3 +211,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Refactor the data layer to separate read and write paths
 
 - Update README with installation steps and environment variable documentation
+
+- Clean up the formatting and run the linter on the changed files
