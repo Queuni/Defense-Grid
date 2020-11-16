@@ -172,3 +172,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Update the changelog with the fixes included in this release

@@ -174,3 +174,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Clean up unused imports and fix formatting to match the project style guide
