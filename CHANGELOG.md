@@ -285,3 +285,6 @@
 
 ## 2020-11-16
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+## 2020-11-16
+- Add proper error handling for invalid config so the app doesn't crash on startup
