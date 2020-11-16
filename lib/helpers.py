@@ -170,3 +170,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Clean up the commented-out code that was left from debugging
+
+# Implement proper cleanup of resources when the process receives SIGTERM
