@@ -279,3 +279,6 @@
 
 ## 2020-11-06
 - Adjust the pool size to match the actual concurrency we need
+
+## 2020-11-16
+- Simplify the config merge logic so overrides are predictable
