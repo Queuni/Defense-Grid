@@ -176,3 +176,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Clean up unused imports and fix formatting to match the project style guide
+
+# Adjust default timeout value to prevent premature connection drops

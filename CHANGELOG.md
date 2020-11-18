@@ -291,3 +291,6 @@
 
 ## 2020-11-16
 - Add a small delay between retries to avoid thundering herd
+
+## 2020-11-18
+- Simplify the validation flow by reusing the same schema
