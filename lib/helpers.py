@@ -174,3 +174,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Update the changelog with the fixes included in this release
+
+# Update the deployment docs with the new environment variables
