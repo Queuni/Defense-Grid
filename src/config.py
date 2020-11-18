@@ -186,3 +186,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Handle edge case when the response body is empty but status is 200
+
+# Simplify the validation flow by reusing the same schema

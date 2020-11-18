@@ -213,3 +213,5 @@ See the [LICENSE](LICENSE) file in this repository.
 - Update README with installation steps and environment variable documentation
 
 - Clean up the formatting and run the linter on the changed files
+
+- Adjust the default concurrency limit based on load test results
