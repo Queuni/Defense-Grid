@@ -196,3 +196,5 @@
 # Improve error message when the required env var is not set
 
 # Add integration tests for the new export endpoint
+
+# Remove the unused parameter that was left from an old refactor

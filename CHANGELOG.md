@@ -294,3 +294,6 @@
 
 ## 2020-11-18
 - Simplify the validation flow by reusing the same schema
+
+## 2020-11-18
+- Support environment-specific overrides via separate config files
