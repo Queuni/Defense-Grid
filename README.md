@@ -2,6 +2,8 @@
 
 A tower defense game prototype built in Unity using the Hybrid ECS (Entity Component System) architecture.
 
+![Gameplay screenshot](defense-grid-gameplay.png)
+
 ## Requirements
 
 - **Unity:** 2018.1 or newer (project created with 2018.3.0f2)
